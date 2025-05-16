@@ -1,2 +1,2 @@
 # ZeroDINO
-xxx
+Coming soon
