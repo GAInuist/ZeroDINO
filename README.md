@@ -1,8 +1,9 @@
 <div align="center">
-  <h2 style="margin-bottom:0px">🔍 ZeroDINO</h2>
+  <h1> 🔍 ZeroDINO</h1>
   <p><em>Semantic and Context-Aware Refinement with Adaptive Fusion for Generalized Zero-Shot Learning</em></p>
 </div>
 
+---
 
 #  🧠 Model Architecture
 ![Model_architecture](framework/architecture.png)
