@@ -37,7 +37,6 @@ bash train.sh CUB      # or SUN / AWA2
 Evaluate using pretrained weights:
 
 ```bash
-# Example: Train on CUB
 bash test.sh CUB      # or SUN / AWA2
 ```
 
