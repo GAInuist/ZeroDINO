@@ -1,14 +1,13 @@
 <div align="center">
-  <h1>ZeroDINO</h1>
+  <h2 style="margin-bottom:0px">🔍 ZeroDINO</h2>
   <p><em>Semantic and Context-Aware Refinement with Adaptive Fusion for Generalized Zero-Shot Learning</em></p>
 </div>
 
----
 
 #  🧠 Model Architecture
 ![Model_architecture](framework/architecture.png)
 
----
+
 
 # 🚀 Quick Start
 Before you begin, please make sure you have downloaded the following datasets:
@@ -45,7 +44,6 @@ bash test.sh CUB      # or SUN / AWA2
 
 Just add ```--zsl_only ``` to the test command.
 
----
 
 # 📈 Results
 
