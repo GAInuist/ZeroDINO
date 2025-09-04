@@ -1,0 +1,21 @@
+{
+  "CUDA_VISIBLE_DEVICES": "0",
+  "DATASET": "SUN",
+  "DATASET_path": "/root/dataset/SUNAttributeDB_Images/SUN/images",
+  "xlsa17_path": "/root/dataset/xlsa17/data",
+  "attr_num": 102,
+  "is_train": false,
+  "is_test": true,
+  "beta_g": 0.6,
+  "beta_l": 0.4,
+  "gamma": 0.85,
+  "search_gamma": true,
+  "Num_Epochs": 200,
+  "batch_size": 32,
+  "test_batch": 64,
+  "pretrain_path": " ",
+  "num_workers": 4,
+  "seed": 9251,
+  "pretrained": true,
+  "freeze_vit": false
+}

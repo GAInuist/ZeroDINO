@@ -1,0 +1,21 @@
+{
+  "CUDA_VISIBLE_DEVICES": "0",
+  "DATASET": "CUB",
+  "DATASET_path": "/root/dataset/CUB/CUB_200_2011/CUB_200_2011/images",
+  "xlsa17_path": "/root/dataset/xlsa17/data",
+  "attr_num": 312,
+  "is_train": true,
+  "is_test": false,
+  "beta_g": 0.5,
+  "beta_l": 0.5,
+  "gamma": 0.85,
+  "search_gamma": false,
+  "Num_Epochs":10,
+  "batch_size": 32,
+  "test_batch": 64,
+  "pretrain_path": "",
+  "num_workers": 4,
+  "seed": 9251,
+  "pretrained": true,
+  "freeze_vit": false
+}
